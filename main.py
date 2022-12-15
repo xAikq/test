@@ -1,1 +1,2 @@
-print('jopa')
+def main():
+	return 'xyi'
